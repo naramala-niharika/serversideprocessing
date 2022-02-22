@@ -144,7 +144,7 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-![Output]()
+![Output](https://github.com/naramala-niharika/serversideprocessing/blob/main/p1.png?raw=true)
 
 
 
